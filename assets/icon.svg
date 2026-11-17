@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- A database that passed a check. Same family as the dsz icon. -->
+  <rect width="512" height="512" rx="112" fill="#134e4a"/>
+  <g fill="none" stroke="#f8fafc" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="220" cy="148" rx="116" ry="44"/>
+    <path d="M104 148 V332 A116 44 0 0 0 336 332 V148"/>
+    <path d="M104 240 A116 44 0 0 0 336 240"/>
+  </g>
+  <circle cx="352" cy="344" r="84" fill="#f59e0b" stroke="#134e4a" stroke-width="20"/>
+  <path d="M314 346 L342 374 L392 318" fill="none" stroke="#ffffff" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,9 @@
+{
+  "name": "dsz-scylladb",
+  "version": "0.1.0",
+  "description": "ScyllaDB checklists for the dsz plugin: a design checklist for dsz:design and Seastar code checks for dsz:review.",
+  "author": {
+    "name": "Dario Mirovic",
+    "url": "https://github.com/DarioMirovic"
+  }
+}
